@@ -1,0 +1,133 @@
+ {
+   "InspireIntents" : [
+     {
+       "intentTag": "greetings",
+       "intentPatterns": [
+         "Hi",
+         "Hey",
+         "Hello"
+       ],
+       "intentResponses": [
+         "Hi, thanks for visiting! How can I help?",
+         "Hey, thanks for visiting! How can I help?",
+         "Hello, thanks for visting! How can I help?"
+       ]
+     },
+
+     {
+       "intentTag": "howAreYou",
+       "intentPatterns": [
+         "How are you",
+         "How are you doing",
+         "How are you feeling",
+         "Whats up",
+         "Sup"
+       ],
+       "intentResponses": [
+         "I'm alright.",
+         "Doing alright!",
+         "Feeling good."
+       ]
+     },
+
+     {
+       "intentTag": "goodbye",
+       "intentPatterns": [
+         "Bye",
+         "Goodbye",
+         "See you later"
+       ],
+       "intentResponses": [
+         "Bye, thanks for visiting! Come again soon.",
+         "Goodbye, thanks for visiting! Come again soon.",
+         "See you later, thanks for visiting! Come again soon."
+       ]
+     },
+
+     {
+       "intentTag": "thanks",
+       "intentPatterns": [
+         "Thanks",
+         "Thank you",
+         "Thanks for helping out",
+         "Thanks for helping me"
+       ],
+       "intentResponses": [
+         "No problem!",
+         "My pleasure!",
+         "Any time!",
+         "Happy to help!",
+         "Glad to help!"
+       ]
+     },
+
+     {
+       "intentTag": "identity",
+       "intentPatterns": [
+         "Who are you",
+         "What are you",
+         "Who made you",
+         "Who designed you",
+         "Who programmed you",
+         "Who created you",
+         "Who is your maker",
+         "Whoe is your designer",
+         "Who is your programmer",
+         "Who is your creator"
+       ],
+       "intentResponses": [
+         "My name is Inspire, a simple, basic chatbot designed, programmed, and created by Aruneem. I can complete various simple tasks. Here's a simple breakdown of what I can do:\n
+         - Discussant: engaging in simple talk with you.\n
+         - Calculator: performing basic mathematical calculations for you.\n
+         - Entertainer: playing simple games with you.\n
+         Let me know what you need, and I can see what I can do!"
+       ]
+     },
+
+     {
+       "intentTag": "capabilities"
+       "intentPatterns": [
+         "What do you do",
+         "What can you do",
+         "How can you help",
+         "How can you be helpful",
+         "What is your purpose",
+         "What is your significance",
+         "What is your use",
+         "What support do you offer",
+         "What support is offered",
+         "What is your objective"
+       ],
+       "intentResponses": [
+         "I can complete various simple tasks. Here's a simple breakdown of what I can do:\n
+         - Discussant: engaging in simple talk with you.\n
+         - Calculator: performing basic mathematical calculations for you.\n
+         - Entertainer: playing simple games with you.\n
+         Let me know what you need, and I can see what I can do!"
+       ]
+     },
+
+     {
+       "intentTag": "joke"
+       "intentPatterns": [
+         "Joke",
+         "Tell a joke",
+         "Tell me a joke",
+         "Laugh",
+         "Make me laugh",
+         "Funny",
+         "Say something funny"
+       ],
+       "intentResponses": [
+         "Did you hear about the mathematician who’s afraid of negative numbers? He’ll stop at nothing to avoid them.",
+         "Where are average things manufactured? The satisfactory.",
+         "How do you drown a hipster? Throw him in the mainstream.",
+         "What is an astronaut’s favorite part on a computer? The space bar.",
+         "How do you throw a space party? You planet.",
+         "Why can’t male ants sink? They’re buoy-ant.",
+         "Want to hear a construction joke? Oh never mind, I’m still working on that one."
+
+       ]
+     }
+   ]
+ }
